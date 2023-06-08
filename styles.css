@@ -1,0 +1,58 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.container h1 {
+    text-align: center;
+    color: wheat;
+}
+
+.container h2 {
+    text-align: left;
+    color: wheat;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.filter-section {
+    margin-bottom: 20px;
+    width: 700px;
+}
+
+#bookList {
+    margin-bottom: 20px;
+}
+
+#pagination {
+    text-align: right;
+}
+
+.book {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-image: url("https://media.istockphoto.com/id/1028739954/photo/library.jpg?s=612x612&w=0&k=20&c=0deegsWdKK50aT5yjD5ha4Y1PrNPUnYPTsRaq3skSHQ=");
+}
+
+.book span {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.book h3 {
+    margin-top: 0;
+}
+
+.book p {
+    margin-bottom: 5px;
+}
+
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-size: 1500px 2500px;
+}
